@@ -1,0 +1,95 @@
+
+** Markdown(.md) Syntax Outline. **
+
+1. Normal text.
+
+2. Heading
+  2.1- Html Syntax
+  2.2- Markdown Syntax
+
+3. Paragraph
+
+  3.1- Line brake
+    3.1.1- Html syntax
+    3.1.2- Markdown syntax
+
+  3.2- Horizental line
+    3.2.1- Html syntax
+    3.2.2- Markdown syntax
+
+  3.3- Paragraph
+    3.3.1- Html syntax
+    3.3.2- Markdown syntax
+
+  3.4- Italic text
+    3.4.1- Html syntax
+    3.4.2- Markdown syntax
+
+  3.5- Bold text
+    3.5.1- Html syntax
+    3.5.2- Markdown syntax
+
+  3.6- Both bold & italic
+    3.6.1- Html syntax
+    3.6.2- Markdown syntax
+
+  3.7- Strikethrough
+    3.7.1- Html syntax
+    3.7.2- Markdown syntax
+
+  3.8- Nested blockqute
+    3.8.1- Markdown syntax
+
+  3.9- Underline
+    3.9.1- Html syntax
+
+
+4. Code Block
+
+  4.1- Inline code block
+    4.1.1- Markdown syntax
+
+  4.2- Multiple line code block with set language
+    4.2.1- Markdown syntax
+
+
+5. List
+  5.1- Order List
+    5.1.1- Html syntax
+    5.1.2- Markdown syntax
+
+  5.2- Unorder List
+    5.2.1- Html syntax
+    5.2.2- Markdown syntax
+
+  5.3- nested List
+    5.3.1- Html syntax
+    5.3.2- Markdown syntax
+
+  5.4- Task List
+    5.4.1- Markdown syntax
+
+6. Links
+
+  6.1- Automatic link
+
+  6.2- disable link
+
+  6.3- Markdown link syntax
+
+  6.4- set link title
+
+7. Image Linking
+
+  7.1- Html syntax
+  7.2- Markdown syntax
+
+8. Emoji
+
+9. Table 
+
+  9.1- Html syntax
+  9.2- Markdown syntax
+
+This is enough for Markdown.
+You can also learn from google to know more about Markdown as you need.
